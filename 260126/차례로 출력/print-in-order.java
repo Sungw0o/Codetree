@@ -9,7 +9,7 @@ public class Main {
             sb.append(i).append(" ");
         }
 
-        bw.write(sb);
+        bw.write(sb.toString());
         bw.flush();
         bw.close();
     }
