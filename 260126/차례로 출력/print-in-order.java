@@ -1,4 +1,3 @@
-public class Main {
 import java.io.*;
 
 public class Main {
