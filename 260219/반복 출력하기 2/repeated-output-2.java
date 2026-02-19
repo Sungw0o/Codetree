@@ -14,6 +14,8 @@ public class Main {
     }
 
     public static void print(int n){
+
+        if(n == 0) return; 
         System.out.println("HelloWorld");
         print(n-1);
     }
