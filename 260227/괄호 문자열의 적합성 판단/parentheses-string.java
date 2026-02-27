@@ -8,8 +8,6 @@ import java.util.Stack;
 public class Main {
 	
 	private static int N;
-	private static ArrayList<Integer> arr = new ArrayList<>();
-	
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
